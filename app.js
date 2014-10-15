@@ -32,7 +32,7 @@ app.use(function(req, res, next) {
     next(err);
 });
 
-// error handlers
+// error handlers inserted
 
 // development error handler
 // will print stacktrace
